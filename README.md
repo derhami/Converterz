@@ -1,6 +1,6 @@
 # Converterz - Image Conversion Utility
 
-![Converterz Logo](link-to-your-logo.png)
+![Converterz Logo](logo.webp)
 
 **Version:** 1.3  
 **Author:** Hamidreza Derhami  
@@ -8,6 +8,8 @@
 
 ## Overview
 Converterz is a lightweight and fast image conversion utility written in Python. It allows users to easily convert images to different formats, resize them, and customize the output naming conventions.
+
+![Program Screenshot](screenshot.png)
 
 ## Features
 - **Hash-based Naming:** Utilizes MD5 hashing for secure and unique filenames.
@@ -20,11 +22,6 @@ Converterz is a lightweight and fast image conversion utility written in Python.
 - **Logging:** Logs conversion activities and errors for future reference.
 - **Drag-and-Drop Support:** Users can drag and drop images for conversion.
 - **Cross-Platform:** Developed for macOS, featuring a macOS-inspired design.
-
-## Installation
-1. Ensure you have Python installed on your system.
-2. Clone this repository or download the ZIP file.
-3. Run the program using `python Converterz.py` in the terminal.
 
 ## Usage
 1. Open the Converterz application.
