@@ -4,7 +4,6 @@
 
 **Version:** 1.3  
 **Author:** Hamidreza Derhami  
-**Website:** [https://hawid.ir/](https://hawid.ir/)
 
 ## Overview
 Converterz is a lightweight and fast image conversion utility written in Python. It allows users to easily convert images to different formats, resize them, and customize the output naming conventions.
